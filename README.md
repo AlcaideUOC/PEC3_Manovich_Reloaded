@@ -27,12 +27,12 @@ Veamos el caso de JamKazam, un software que permite interactuar desde la distanc
 
 **¿Qué elementos y dispositivos usa JamKazam?**
 
-•	Un Pc con Windows 10 o Mac OS X o superior con conexión a internet.
-•	Una interfaz de audio que estará conectada a ese PC.
-•	Uno o varios micrófonos si es que el instrumento es acústico y no dispone de un dispositivo para sonar.
-•	En caso de instrumentos que se puedan conectar directamente al a intefaz es suficiente con un cable de audio.
-•	Una cámara si deseamos emitir la imagen junto con el sonido.
-•	Instrumentos Virtuales.
+•	Un Pc con Windows 10 o Mac OS X o superior con conexión a internet. <br>
+•	Una interfaz de audio que estará conectada a ese PC.<br>
+•	Uno o varios micrófonos si es que el instrumento es acústico y no dispone de un dispositivo para sonar.<br>
+•	En caso de instrumentos que se puedan conectar directamente al a intefaz es suficiente con un cable de audio.<br>
+•	Una cámara si deseamos emitir la imagen junto con el sonido.<br>
+•	Instrumentos Virtuales.<br>
 
 ![](https://www.jamkazam.com/assets/landing/Top%2010%20Image%20-%20Number%206.png)
 
