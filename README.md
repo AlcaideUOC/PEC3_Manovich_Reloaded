@@ -4,14 +4,17 @@ Visionando el futuro con las gafas de Manovich
 
 
 ## JamKazam
+![JamKazam | Live, In-Sync Music Jamming Over the Internet](https://jamkazam.com/wp-content/uploads/2020/08/JK_Logo_2c.png)
+>     Logotipo de JamKazam. Fuente: https://jamkazam.com/
 
-
-
-> *Nuestra sociedad contemporánea puede caracterizarse como la sociedad del software y nuestra cultura puede denominarse con razón una cultura del software, puesto que hoy por hoy el software desempeña un papel primordial a la hora de configurar tanto los elementos materiales como muchas de las estructuras inmateriales que, conjuntamente, conforman la «cultura» (El software toma el mando, Pág 43).**
+En esta entrega hablamos de JamKazam y para ello comenzamos analizando una parte cultural que resulta ser importante en la evolución del software.
 
 El software fuerza una evolución humana y habilita nuevas posibilidades que además pueden ser combinadas, generando hibridación de técnicas diferentes. Hasta hace relativamente pocos años para que un grupo musical ensayara sólo podría hacerlo si en ese momento todos estaban físicamente en un mismo espacio pero los nuevos medios permiten nuevas soluciones.
 
-Los procedimentos cambian constantemente y esta evolución permite alcanzar nuevas formas de comunicación, de realización de tareas, de acceso a medios y la fusión entre varios de ellos consiguen una mayor fortaleza. En cierta forma se podría considerar una revolución ya que nuevas posibilidades para la sociedad afloran.
+> *Nuestra sociedad contemporánea puede caracterizarse como la sociedad del software y nuestra cultura puede denominarse con razón una cultura del software, puesto que hoy por hoy el software desempeña un papel primordial a la hora de configurar tanto los elementos materiales como muchas de las estructuras inmateriales que, conjuntamente, conforman la «cultura» (El software toma el mando, Pág 43).**
+
+
+Los procedimientos cambian constantemente y esta evolución permite alcanzar nuevas formas de comunicación, de realización de tareas, de acceso a medios y la fusión entre varios de ellos consiguen una mayor fortaleza. En cierta forma se podría considerar una revolución ya que nuevas posibilidades para la sociedad afloran.
 Veamos el caso de JamKazam, un software que permite interactuar desde la distancia a diferentes músicos y entre diferentes tecnologías, permitiendo a tocar juntos y de forma sincronizada a través de Internet desde diferentes lugares, enviando audio y video de alta calidad.
 
 **¿Qué elementos y dispositivos usa JamKazam?**
@@ -24,6 +27,9 @@ Veamos el caso de JamKazam, un software que permite interactuar desde la distanc
 •	Instrumentos Virtuales.
 
 
+
+
+
 **¿Cómo funciona un ensayo con la herramienta JamKazm?**
 
 Para poder generar el proceso colaborativo es necesario que cada músico conecte su instrumento (ya sea analógico, digital o virtual) a la interface de audio y esta está configurada en el software JamKazam, además de poder añadir una toma de vídeo. 
@@ -33,8 +39,14 @@ A través de conexiones de fibra óptica o 5G es posible reducir la latencia has
 Las interfaces de audio están diseñadas para funcionar independientemente, sólo pueden enlazarse mediante sistemas como ADAT pero siempre en modo Maestro/Esclavo. El software JamKazan consigue unificar tanto el vídeo de cada músico, con el audio y luego sincronizarlo con otros más mediante conexiones de red.
 
 Dispone además de conectividad de instrumentos VST/AU/MIDI.
+![](https://www.jamkazam.com/assets/landing/Top%2010%20Image%20-%20Number%201.png)
+
+> Pistas disponibles en una sesión de  JamKazam. Fuente: https://jamkazam.com/
 
 La red social y el chat integrado permite conocer profesionales y aficionados del sector, unificando medios de comunicación en una única solución.
+
+
+
 
 **¿Qué aporta este software?**
 
@@ -45,6 +57,8 @@ La constante innovación, las posibilidades generadas con los medios generados, 
 Es decir, el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes. (El software toma el mando, pag.288)
 
 Así pues, aunque la estética del resultado pueda recordar a la estética del medio físico originario, el resultado se ha convertido en una nueva técnica que ofrece nuevas posibilidades y fusiona distintos medios.
+
+[Enlace a una demostración de sesiones realizadas con JamKazam](https://youtu.be/euxDykIqUdo)
 
 **¿Cómo afecta al usuario final?**
 
