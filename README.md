@@ -2,7 +2,7 @@
 # Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 
-Manovich publicó en 2001 (“El lenguaje de los nuevos medios”) y 2013 (“ El software toma el mando”), libros base para poder visionar como si se hiciera desde las gafas de Manovich dos ejemplos de hibridación que analizaremos a continuación.
+Manovich publicó en 2001 (“El lenguaje de los nuevos medios”) y en 2013 (“ El software toma el mando”), libros base para poder visionar como si se hiciera desde las gafas de Manovich dos ejemplos de hibridación que analizaremos a continuación.
 
 Se tratará de definir la hibridación y distinguir sobre el concepto multimedia y para ello no solo se desarrollará la parte técnica que compone las capas de los medios sino su iteración con el usuario, la fusión de medios, los nuevos espacios creados, su influencia en la cultura y las nuevas funcionalidades que pueden ser descubiertas o implementadas.
 
@@ -109,7 +109,7 @@ De esta manera el usuario puede sentir que en su mano está  poder cambiar el mu
 
 Es importante señalar el poder de la hibridación en este caso ya que consigue que diversos medios convivan y expresen una experiencia distinta. La estética es importante y se ha cuidado al detalle, tanto en la maquetación como en la creación de los medios visuales.
 
-Si nos adentramos en el aspecto del sitio web, podemos comprobar que nos muestra una imagen seria, la estructura cromática se basa en colores predominante neutros y con dos colores a destacar que son el azul y el verde, que son utilizados para crear luz y esperanza sobre las partes más grises y oscuras.
+Si nos adentramos en el aspecto del sitio web, podemos comprobar que nos muestra una imagen seria, la estructura cromática se basa en colores predominante neutros y con dos colores a destacar que son el azul y el verde, que son utilizados para crear luz y esperanza sobre las partes más grises y tenues.
 
 También es fácil observar que después de una imagen que presenta el proyecto el segundo paso muestra claramente dos partes, la situada a la izquierda que llaman distópica y la utópica presentada a la derecha.
 A partir de este punto, todas las acciones que se realicen en cada parte corresponden a estos dos conceptos.
