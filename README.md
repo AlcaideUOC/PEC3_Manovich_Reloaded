@@ -1,7 +1,7 @@
 # PEC3_Manovich_Reloaded
 # Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
-Autor: Víctor Alcaide Peletero para el aprendizaje de la asignatura Cultura Digital cursada en la U.O.C.
+> Autor: Víctor Alcaide Peletero para el aprendizaje de la asignatura Cultura Digital cursada en la U.O.C.
 
 
 Manovich publicó en 2001 (“El lenguaje de los nuevos medios”) y en 2013 (“ El software toma el mando”), libros base para poder visionar como si se hiciera desde las gafas de Manovich dos ejemplos de hibridación que analizaremos a continuación.
