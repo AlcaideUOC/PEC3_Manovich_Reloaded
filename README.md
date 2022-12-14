@@ -125,4 +125,10 @@ En cuanto a los contenidos de vídeo, son simulaciones de telediarios reales con
 
 Resumiendo estos puntos y teniendo en cuenta el concepto de **remezclabilidad** de Manovich, podemos observar que este caso **no es simplemente una mezcla multimedia sino una hibridación**, en el que el usuario experimenta sensaciones, puede sacar nuevas conclusiones e interactuar de manera distinta, creando una conciencia, educando al usuario y mostrando que tanto en la vida real como en este laboratorio el camino lo marca uno mismo.
 
+## Webgrafía y Bibliografía
+
+•	JamKazam [En línea] [Recuperado el 13 de diciembre de 2022]. Desde: https://jamkazam.com/ <br>
+•	Stackedit [En línea] [Recuperado: 11 de diciembre de 2022]. Desde: https://stackedit.io/ <br>
+•	Lab RTVE [En línea] [Recuperado: 14 de diciembre de 2022]. Desde: https://lab.rtve.es/lab/telediario-2050-cambio-climatico <br>
+•	Manovich, L. [Lev Manovich]. (2013). El software toma el mando. UOCPress - Comunicación. Disponible en: https://www.editorialuoc.com/el-software-toma-el-mando <br>
 
