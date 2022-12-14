@@ -2,6 +2,15 @@
 # Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 
+Manovich publicó en 2001 (“El lenguaje de los nuevos medios”) y 2013 (“ El software toma el mando”), libros base para poder visionar como si se hiciera desde las gafas de Manovich dos ejemplos de hibridación que analizaremos a continuación.
+
+Se tratará de definir la hibridación y distinguir sobre el concepto multimedia y para ello no solo se desarrollará la parte técnica que compone las capas de los medios sino su iteración con el usuario, la fusión de medios, los nuevos espacios creados, su influencia en la cultura y las nuevas funcionalidades que pueden ser descubiertas o implementadas.
+
+Los temas elegidos en este caso son:
+
+ - JamKazam 
+ - Telediario en 2050
+
 ## JamKazam
 ![JamKazam | Live, In-Sync Music Jamming Over the Internet](https://jamkazam.com/wp-content/uploads/2020/08/JK_Logo_2c.png)
 >     Logotipo de JamKazam. Fuente: https://jamkazam.com/
@@ -115,3 +124,5 @@ En cuanto a los contenidos de vídeo, son simulaciones de telediarios reales con
 > lenguajes (El software toma el mando, pág 366)
 
 Resumiendo estos puntos y teniendo en cuenta el concepto de **remezclabilidad** de Manovich, podemos observar que este caso **no es simplemente una mezcla multimedia sino una hibridación**, en el que el usuario experimenta sensaciones, puede sacar nuevas conclusiones e interactuar de manera distinta, creando una conciencia, educando al usuario y mostrando que tanto en la vida real como en este laboratorio el camino lo marca uno mismo.
+
+
