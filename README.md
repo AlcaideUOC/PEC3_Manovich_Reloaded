@@ -26,8 +26,9 @@ Veamos el caso de JamKazam, un software que permite interactuar desde la distanc
 •	Una cámara si deseamos emitir la imagen junto con el sonido.
 •	Instrumentos Virtuales.
 
+![](https://www.jamkazam.com/assets/landing/Top%2010%20Image%20-%20Number%206.png)
 
-
+> Instrumento virtual en JamKazam. Fuente: https://jamkazam.com/
 
 
 **¿Cómo funciona un ensayo con la herramienta JamKazm?**
@@ -86,6 +87,10 @@ En este caso encontramos varias dualidades que van unidas, una de ellas es la cr
 
 El objetivo de esta hibridación consiste en mostrar el poder que la humanidad tiene pudiendo decidir el camino a seguir y por consiguiente el impacto que esos pasos provocan sobre el planeta y ese poder de cambio se convierte en un simil que el usuario experimenta con la interacción del sitio web. 
 
+![Un Telediario de 2050 - La cumbre del clima de Madrid y el Cambio Climático  | Lab](https://lab.rtve.es/lab/telediario-2050-cambio-climatico/media/image/share/home.png)
+
+> Imagen principal del sitio web "Un Telediario de 2050". Fuente:lab.rtve.es
+
 Expliquemos esto más detalladamente desglosándolo en partes:
 
 El planeta se encuentra expuesto a un gran problema de contaminación producida por el ser humano que está provocando un cambio climático. Para poder frenar esta situación es necesario que se produzcan cambios en la sociedad. Con el fin de educar a la población, RTVE ha creado un laboratorio en el que expone unos telediarios futuristas presentados por periodistas que actualmente aparecen en las noticias con dos alternativas posibles, una **utópica** y otra **distópica**.
@@ -102,6 +107,9 @@ También es fácil observar que después de una imagen que presenta el proyecto 
 A partir de este punto, todas las acciones que se realicen en cada parte corresponden a estos dos conceptos.
 
 En cuanto a los contenidos de vídeo, son simulaciones de telediarios reales con presentadores que la sociedad conoce para que sea más creíble.
+
+![Un Telediario de 2050 - La cumbre del clima de Madrid y el Cambio Climático  | Lab](https://media-lab-pro.rtve.es/proyectos/clima/utopia/posters/4_UTOPIA.jpg)
+> Imagen del presentador simulando Un Telediario de 2050. Fuente: RTVE
 
 > La remezclabilidad de los medios no implica únicamente añadir
 > contenidos de distintas fuentes ni incorporar sus técnicas o sus
